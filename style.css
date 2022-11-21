@@ -1,17 +1,65 @@
-
-
 body {
-    background-image: url(https://i.pinimg.com/564x/6c/6b/40/6c6b40fb656a42ac845b2b0c70fa6ce0.jpg);
+    background-color: gray;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
-]
+.title {
+    text-align: right;
+    display: flex;
+    justify-content: center;
+}
 
-
-
-.button{
+.social-dev {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 15px;
 
 }
-.
+.social-dev a {
+gap: 10px;
+text-align: center;
+margin: 0 auto;
+border: 1px red;
+
+}
+#trybe
+{
+    width: 50px;
+    border-radius: 50%;
+    
+}
+#github {
+    width: 50px;
+    border-radius: 50%;
+}
+#linkedin {
+    width: 50px;
+    border-radius: 50%;
+}
+.history 
+
+.positive-points 
+
+.button-linke
+
+.button-gith
+
+.button-trybe {
+   height: 10px;
+   width: 10px;
+    
+    
+}
+
+
+h1,
+p,
+h3,
+ul {
+
+    color: aliceblue;
+
+}
