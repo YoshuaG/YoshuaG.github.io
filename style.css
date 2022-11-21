@@ -1,14 +1,20 @@
+
+
+
+
 body {
-    background-color: gray;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-image: url(screen-0.jpg);
+    
 }
 
 .title {
     text-align: right;
     display: flex;
     justify-content: center;
+    color: bisque;
+   
 }
 
 .social-dev {
@@ -18,48 +24,69 @@ body {
     gap: 15px;
 
 }
-.social-dev a {
-gap: 10px;
-text-align: center;
-margin: 0 auto;
-border: 1px red;
 
-}
-#trybe
-{
+
+
+#trybe {
     width: 50px;
     border-radius: 50%;
-    
+
 }
+
 #github {
     width: 50px;
     border-radius: 50%;
 }
+
 #linkedin {
     width: 50px;
     border-radius: 50%;
 }
-.history 
 
-.positive-points 
+.history {
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
 
-.button-linke
+.minhafoto {
+    width: 150px;
+    border-radius: 150%;
+    text-align: block;
 
-.button-gith
 
-.button-trybe {
-   height: 10px;
-   width: 10px;
+}
+
+.depoimentofoto {
+    text-align: right;
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 30%;
+
+
+}
+
+.depoimento {
+
+   width: 40%;
+
+
+}
+
+.positivepoints {
+
+    text-align: center;
+    width: 30%;
+   
     
-    
+
+
+
 }
 
 
-h1,
-p,
-h3,
-ul {
-
-    color: aliceblue;
+h1,p,ul {
+    
+   
 
 }
